@@ -5,7 +5,7 @@ A clean and modern **landing page design** created in Figma, focusing on fresh v
 ---
 
 ## Project Files
-- [Download PDF Preview](./juice-landing-page.pdf)
+- [Download PDF Preview](https://github.com/Arsen1233/Juice_-landing_Page_UI-Ux/commit/b67c05bcb475ec92f865acd585967ad4f42b4aa8)
 
 ---
 
